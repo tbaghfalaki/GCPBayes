@@ -9,7 +9,7 @@
 
 > This vignette can reproduces a part of the simulation study of our submitted paper entitled as follows:
 
-  > Bayesian meta-analysis models to Cross Cancer Genomic Investigation of pleiotropic effects using group structure. Baghfalaki T., P.E. Sugier, T. Truong, A.T. Pettitt, . Mengersen, and B. Liquet (2020).
+  > Bayesian meta-analysis models to Cross Cancer Genomic Investigation of pleiotropic effects using group structure. 
 
 
 
