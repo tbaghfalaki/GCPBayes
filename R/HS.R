@@ -282,7 +282,7 @@ HS0=function(Betah1, Betah2, Sigmah1, Sigmah2, kappa0, kappastar0, sigma20, s20=
       A2=Betah2[j]-Sigmah2[j,-j]%*%solve(Sigmah2[-j,-j])%*%(Betah2[-j]-Beta2[r,-j])
       B2=A2*b2[r,j]/(vkj2*sigmabar2[j])
       vkj2B22=A2^2*b2[r,j]^2/(vkj2*sigmabar2[j]^2)
-      T2=(log(2)+pnorm(B2*sqrt(vkj2), log.p = TRUE))*(B2<0)+0*(B2>=0)
+      T2=(log(2)+pnorm(B2*sqrt(vkj2), log.p = TRUE))
       prob2=(1+kappastar[r-1]/(1-kappastar[r-1])*1/sqrt(vkj2*s2[r-1])*exp(vkj2B22/2+T2))^-1
       m2[j]=B2;v2[j]=1/vkj2;ZZ2[j]=rbinom(1,1,prob2)
     }
