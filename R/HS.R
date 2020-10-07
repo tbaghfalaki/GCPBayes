@@ -175,7 +175,7 @@ e2_Monte_Carlo_EM=function(Betah1=Betah1, Betah2=Betah2, Sigmah1=Sigmah1, Sigmah
       A1=Betah1[j]-Sigmah1[j,-j]%*%solve(Sigmah1[-j,-j])%*%(Betah1[-j]-Beta1[r,-j])
       B1=A1*b1[r,j]/(vkj1*sigmabar1[j])
       vkj1B12=A1^2*b1[r,j]^2/(vkj1*sigmabar1[j]^2)
-      T1=(log(2)+pnorm(B1*sqrt(vkj1), log.p = TRUE))*(B1<0)+0*(B1>=0)
+      T1=(log(2)+pnorm(B1*sqrt(vkj1), log.p = TRUE))
       prob1=(1+kappastar[r-1]/(1-kappastar[r-1])*1/sqrt(vkj1*s2[r-1])*exp(vkj1B12/2+T1))^-1
       m1[j]=B1;v1[j]=1/vkj1;ZZ1[j]=rbinom(1,1,prob1)
 
