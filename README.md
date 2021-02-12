@@ -1,7 +1,7 @@
 # GCPBayes package
 
 
-> Run a Gibbs sampler for a multivariate Bayesian sparse group selection model with Dirac, continoues and hierarchical spike prior for detecting pleiotropic effects on two traits. This package is designed for summary statistics containing estimated regression coefficients and its estimated covariance matrix.
+> Run a Gibbs sampler for a multivariate Bayesian sparse group selection model with Dirac, continues and hierarchical spike prior for detecting pleiotropic effects on two traits. This package is designed for summary statistics containing estimated regression coefficients and its estimated covariance matrix.
 
 > Here we provide a comprehensible detailed vignette to run Bayesian meta-analysis models using GCPBayes package.
 
