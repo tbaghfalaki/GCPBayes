@@ -19,7 +19,7 @@ The package is now accessible on R CRAN as well!
 #### The methodology paper
 Baghfalaki, T., Sugier, P. E., Truong, T., Pettitt, A. N., Mengersen, K., & Liquet, B. (2021). Bayesian meta‐analysis models for cross cancer genomic investigation of pleiotropic effects using group structure. *Statistics in Medicine*, 40(6), 1498-1518. [https://pubmed.ncbi.nlm.nih.gov/33368447/]
 
-#### A Vignettes
+#### A Vignette
 Baghfalaki, T., Sugier, PE, Asgari, Y., Truong, T., & Liquet, B. (2023). GCPBayes: An R package for studying Cross-Phenotype Genetic Associations with Group-level Bayesian Meta-Analysis. *RJournal* , 15 (1), 122-141. [https://journal.r-project.org/articles/RJ-2023-028/RJ-2023-028.pdf]
 
 #### A Pipeline 
