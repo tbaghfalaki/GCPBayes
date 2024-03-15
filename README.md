@@ -29,4 +29,6 @@ Asgari, Y., Sugier, P. E., Baghfalaki, T., Lucotte, E., Karimi, M., Sedki, M., .
 ##### Declaration and Contributions
 Taban Baghfalaki has made significant contributions to the development of this package, including the design and implementation of key functionalities such as CS, DS, and HS methods, along with their summaries and associated plots.
 
+As of version 4.2.0 (2024-03-14), Taban Baghfalaki has stepped down as the maintainer of the package.
+
 
