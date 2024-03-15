@@ -10,7 +10,7 @@ To acquire the latest development version of GCPBayes, you may utilize the follo
 ```
 This will seamlessly fetch and install the most up-to-date version of GCPBayes for your use.
 
-The package is now accessible on R CRAN as well!
+The package is now accessible on R CRAN as well![https://cran.r-project.org/web/packages/GCPBayes/index.html]
 ```
   install.packages("GCPBayes")
 ```
