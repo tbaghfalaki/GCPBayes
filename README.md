@@ -25,9 +25,8 @@ Baghfalaki, T., Sugier, PE, Asgari, Y., Truong, T., & Liquet, B. (2023). GCPBaye
 #### A Pipeline 
 Asgari, Y., Sugier, P. E., Baghfalaki, T., Lucotte, E., Karimi, M., Sedki, M., ... & Truong, T. (2023). GCPBayes pipeline: a tool for exploring pleiotropy at the gene level. *NAR Genomics and Bioinformatics*, 5(3), lqad065. [https://academic.oup.com/nargab/article/5/3/lqad065/7219410]
 
-##### Declation
+##### Declation and T. Baghfalaki contributions of the package
 The methodology section of the package, which encompasses the R functions for CS, DS, HS methods, as well as their summary functions and associated plots, has been developed by Taban Baghfalaki.
-
 
 
 
